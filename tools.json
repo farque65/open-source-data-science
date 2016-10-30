@@ -1220,5 +1220,14 @@
         "license": "GPL-2.0",
         "license_url": "https://opensource.org/licenses/GPL-2.0",
         "name": "Virtualbox"
+    },
+    {
+        "docs": "https://github.com/tensorflow/tensorflow",
+        "good_for": [
+            "data analysis"
+        ],
+        "license": "Apache License, Version 2.0",
+        "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+        "name": "Tensorflow"
     }
 ]
